@@ -1,5 +1,6 @@
-[{
-    "name": "coca-cola",
+{
+    "localities": [
+    {"name": "coca-cola",
     "logoUrl": "qualquer coisa",
     "siteUrl": "www.coca.com",
     "email": "qualquercoisa@hotmail",
@@ -94,5 +95,4 @@
     "companyName": "Coca-Cola",
     "companyId": "14",
     "companyTx": "13"
-}
-]
+}]}
